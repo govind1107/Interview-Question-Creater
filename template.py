@@ -12,6 +12,8 @@ list_of_files  = [    "src/__init__.py",
                       "setup.py",
                       "research/trials.ipynb",
                       "app.py",
+                      "static/docs",
+                      "static/output"
                   ]
 
 for filepath in list_of_files:
